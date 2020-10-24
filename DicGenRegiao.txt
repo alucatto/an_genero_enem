@@ -1,0 +1,13 @@
+Dados de gênero por região brasileira
+Fonte: IBGE 2016 https://www.ibge.gov.br/estatisticas/multidominio/genero/20163-estatisticas-de-genero-indicadores-sociais-das-mulheres-no-brasil.html?=&t=downloads
+
+'Região': Região do Brasil
+'HorasM': Número médio de horas semanais dedicadas aos cuidados de pessoas e/ou afazeres domésticos das pessoas de 14 anos ou mais de idade, na semana de referência, realizado por mulheres
+'HorasH': Número médio de horas semanais dedicadas aos cuidados de pessoas e/ou afazeres domésticos das pessoas de 14 anos ou mais de idade, na semana de referência, realizado por homens
+'Creche': Proporção de crianças com até 3 anos de idade que frequentam escola ou creche
+'DesocupM': Taxa de desocupação de mulheres de 15 a 24 anos de idade na semana de referência
+'DesocupH': Taxa de desocupação de homens de 15 a 24 anos de idade na semana de referência
+'OcupCom3M': Nível de ocupação de mulheres de 25 a 49 anos de idade, na semana de referência, com presença de criança de até 3 anos de idade no domicílio
+'OcupCom3H': Nível de ocupação de homens de 25 a 49 anos de idade, na semana de referência, com presença de criança de até 3 anos de idade no domicílio
+'OcupSem3M': Nível de ocupação de mulheres de 25 a 49 anos de idade, na semana de referência, sem presença de criança de até 3 anos de idade no domicílio
+'OcupSem3H': Nível de ocupação de homens de 25 a 49 anos de idade, na semana de referência, sem presença de criança de até 3 anos de idade no domicílio
